@@ -21,6 +21,7 @@
     "domain-supervisor": "^0.3.1",
     "gulp": "",
     "gulp-6to5": "",
+    "node.js": "^0.0.1-security",
     "ripple-account-monitor": "",
     "ripple-lib": "",
     "ripple-rest-client": "",
